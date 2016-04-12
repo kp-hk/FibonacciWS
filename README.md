@@ -12,3 +12,6 @@ Web Service for Calculating Fibonacci Numbers
 3. It includes functional and unit tests.
 
 4. It is written with the Go language.
+
+5. Docker containerized at https://hub.docker.com/r/kkphk/fibonacci/
+   or "docker search kkphk/fibonacci"
