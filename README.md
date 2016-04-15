@@ -13,5 +13,14 @@ Web Service for Calculating Fibonacci Numbers
 
 4. It is written with the Go language.
 
-5. Docker containerized at https://hub.docker.com/r/kkphk/fibonacci/
-   or "docker search kkphk/fibonacci"
+5. Docker file is in the docker directory
+
+6. To deploy with docker container on local machine:
+   https://hub.docker.com/r/kkphk/fibonacci/
+
+7. To deploy with docker container on AWS using Elastic Beanstalk:
+   - AWS Elastic Beanstalk, select Create Web Server, Generic Docker environment and launch.
+   - Deploy the aws-eb/fibonacci.zip file
+   - Click on the URL.
+   - Enter a forward slash and the Fibonacci number n at the end of the URL.
+   - The Fibonacci numbers will be displayed on the web browser page.
