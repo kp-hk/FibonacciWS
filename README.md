@@ -19,8 +19,7 @@ Web Service for Calculating Fibonacci Numbers
    https://hub.docker.com/r/kkphk/fibonacci/
 
 7. To deploy with docker container on AWS using Elastic Beanstalk:
-   - AWS Elastic Beanstalk, select Create Web Server, Generic Docker environment and launch.
-   - Deploy the aws-eb/fibonacci.zip file
+   - AWS Elastic Beanstalk, select Create Web Server, Generic Docker environment launch and deploy the      aws-eb/fibonacci.zip file at the same time.
    - Click on the URL.
    - Enter a forward slash and the Fibonacci number n at the end of the URL.
    - The Fibonacci numbers will be displayed on the web browser page.
