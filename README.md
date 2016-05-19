@@ -1,5 +1,5 @@
 # FibonacciWS
-Web Service for Calculating Fibonacci Numbers
+** Web Service for Calculating Fibonacci Numbers **
 
 1. This project provides a RESTful web service.
 
